@@ -6,14 +6,56 @@
         <link href="Background.css" rel="stylesheet"/>
     </head>
     <body>
-        <p>Mau Ngapain bang? ke Website 2 ini?</p>
+        <h1>Vrediclion</h1>
+        <p>Welcome To Vrediclion Website</p> 
+        <h2>Link</h2>
         <div class="links">
-  <a class="link-box" href="https://saweria.co/Vrediclion" target="_blank" rel="noopener">
-    <div class="box-left">$</div>
+  <a class="link-box" href="https://www.youtube.com/@Vredicliongaming" target="_blank" rel="noopener">
+    <div class="box-left">▶</div>
     <div class="box-center">
-      <div class="title">Saweria</div>
-      <div class="subtitle">Donate To Vrediclion</div>
+      <div class="title">YouTube</div>
+      <div class="subtitle">Subscribe & watch</div>
     </div>
     <div class="box-right">↗</div>
   </a>
+
+  <a class="link-box" href="https://www.instagram.com/vrediclion/" target="_blank" rel="noopener">
+    <div class="box-left">📸</div>
+    <div class="box-center">
+      <div class="title">Instagram</div>
+      <div class="subtitle">Follow for updates</div>
+    </div>
+    <div class="box-right">↗</div>
+  </a>
+
+  <a class="link-box" href="https://www.tiktok.com/@vrediclion" target="_blank" rel="noopener">
+    <div class="box-left">🎵</div>
+    <div class="box-center">
+      <div class="title">TikTok</div>
+      <div class="subtitle">Shorts & clips</div>
+    </div>
+    <div class="box-right">↗</div>
+  </a>
+
+  <a class="link-box" href="mailto:bangvrediclion@gmail.com" target="_blank" rel="noopener">
+    <div class="box-left">✉️</div>
+    <div class="box-center">
+      <div class="title">Contact</div>
+      <div class="subtitle">Send a message</div>
+    </div>
+    <div class="box-right">↗</div>
+  </a>
+  
+  <a class="link-box" href="https://saweria.co/Vrediclion" target="_blank" rel="noopener">
+    <div class="box-left">$</div>
+    <div class="box-center">
+      <div class="title">Donate</div>
+      <div class="subtitle">Send a Donation</div>
+    </div>
+    <div class="box-right">↗</div>
+  </a>
+</div>
+<p>Official Website of Vrediclion | YouTube Creator</p>
+    <script src="script.js"></script>
+    </body>
 </html>
